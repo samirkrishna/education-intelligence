@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env/
+.python-version
+
+# Environment variables
+.env
+.env.*
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Playwright
+playwright-report/
+test-results/
